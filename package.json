@@ -1,0 +1,16 @@
+{
+  "name": "add-vuepress-authentication",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@okta/okta-vue": "^1.1.0",
+    "vuepress": "^1.0.1"
+  }
+}
