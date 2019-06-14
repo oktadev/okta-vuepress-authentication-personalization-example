@@ -1,6 +1,6 @@
 # Add Authentication and Personalization to VuePress
 
-This example VuePress application is for the blog post [Add Authentication and Personalization to VuePress]().
+This example VuePress application is for the blog post [Add Authentication and Personalization to VuePress](https://developer.okta.com/blog/2019/06/14/add-authentication-and-personalization-to-vuepress).
 
 ## Setup
 
